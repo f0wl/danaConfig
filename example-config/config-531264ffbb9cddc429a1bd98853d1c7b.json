@@ -1,0 +1,19 @@
+{
+    "affID": 40,
+    "embeddedHash": " 07284E2A3AB3C2E1FFFBD425849BE15",
+    "version": 2052,
+    "timeout": 360000,
+    "c2Hosts": [
+        "185.117.90.36",
+        "193.42.36.59",
+        "193.56.146.53",
+        "185.106.123.228"
+    ],
+    "c2Ports": [
+        443,
+        443,
+        443,
+        443
+    ],
+    "torURL": "bjij7tqwaipwbeig5ubq4xjb6fy7s3lknhkjojo4vdngmqm6namdczad.onion"
+}
